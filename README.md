@@ -18,7 +18,8 @@ Each of the mentioned substructures comprise three matrices, "p", "TR", and "bp"
 	"TR"				denotes the indices of the triangles, e.g., the nodes concerning the first triangle 
 						can be obtained via the first line of TR, and
 	"bp" 				denotes the boundary polygon of the respective subregion.
-	The triangle meshes are depicted in Figure 1 on the right (grey color).
+	
+	The triangle meshes are depicted in Figure 1 on the right (grey color), cf. https://doi.org/10.3390/s20195709.
 	
 __________________________________________________________________________________________________________________
 	
